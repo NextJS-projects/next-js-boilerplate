@@ -18,6 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 - PropTypes
 - Prettier (for code format)
 - Font awesome 5
+- SCSS
 - Layout using bootstrap grid system
 - 4 break points
 
