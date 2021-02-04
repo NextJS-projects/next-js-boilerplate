@@ -1,0 +1,37 @@
+{
+  "name": "next-js-boilerplate",
+  "version": "1.0.0",
+  "description": "NextJS boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.6",
+    "next-redux-wrapper": "^6.0.2",
+    "prettier": "^2.2.1",
+    "prop-types": "^15.7.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "sass": "^1.32.6"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextJS-projects/next-js-boilerplate"
+  },
+  "author": "Adam Morsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NextJS-projects/next-js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/NextJS-projects/next-js-boilerplate#readme"
+}
