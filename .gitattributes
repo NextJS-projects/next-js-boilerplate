@@ -1,3 +1,2 @@
-*.scss linguist-language=Javascript
 * linguist-vendored
 *.js linguist-vendored=false
